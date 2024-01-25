@@ -1,10 +1,10 @@
 package logic
 
 import (
-	ec "evmx/core"
-	"evmx/rawdb"
-	"evmx/state"
-	"evmx/vm"
+	ec "github.com/AminRezaei0x443/evmx/core"
+	"github.com/AminRezaei0x443/evmx/rawdb"
+	"github.com/AminRezaei0x443/evmx/state"
+	"github.com/AminRezaei0x443/evmx/vm"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/params"
 	"math/big"

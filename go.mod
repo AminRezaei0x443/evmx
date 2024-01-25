@@ -1,4 +1,4 @@
-module evmx
+module github.com/AminRezaei0x443/evmx
 
 go 1.21
 

@@ -17,8 +17,8 @@
 package core
 
 import (
-	"evmx/types"
-	"evmx/vm"
+	"github.com/AminRezaei0x443/evmx/types"
+	"github.com/AminRezaei0x443/evmx/vm"
 	"github.com/ethereum/go-ethereum/common"
 	"math/big"
 )

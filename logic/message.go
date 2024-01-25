@@ -1,7 +1,7 @@
 package logic
 
 import (
-	ec "evmx/core"
+	ec "github.com/AminRezaei0x443/evmx/core"
 	"github.com/ethereum/go-ethereum/common"
 	"math/big"
 )

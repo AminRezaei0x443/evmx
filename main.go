@@ -1,8 +1,8 @@
 package main
 
 import (
-	"evmx/logic"
 	"fmt"
+	"github.com/AminRezaei0x443/evmx/logic"
 	"github.com/ethereum/go-ethereum/common"
 	"math/big"
 )
